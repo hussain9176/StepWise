@@ -14,3 +14,4 @@ A C# framework to build, visualize and execute event-driven workflow
 // handle the edge case from the last release
 // avoid re-reading the config on every call
 // handle the edge case from the last release
+// avoid re-reading the config on every call
